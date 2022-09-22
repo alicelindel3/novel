@@ -1,1 +1,1 @@
-# novel
+# novel【GPT-2】
